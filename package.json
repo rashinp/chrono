@@ -1,10 +1,10 @@
 {
   "name": "chrono-node",
   "description": "A natural language date parser in Javascript",
-  "homepage": "http://github.com/berryboy/chrono",
+  "homepage": "http://github.com/rashinp/chrono",
   "repository": {
     "type": "git",
-    "url": "https://github.com/berryboy/chrono.git"
+    "url": "https://github.com/rashinp/chrono.git"
   },
   "license": "MIT",
   "version": "1.2.4",
@@ -23,7 +23,7 @@
     "karma-firefox-launcher": "~0.1.0",
     "karma-qunit": "~0.1.1",
     "minifyify": "^7.0.6",
-    "qunit": "git://github.com/wanasit/node-qunit.git",
+    "qunit": "git://github.com/rashinp/node-qunit.git",
     "watchify": "^2.1.1"
   },
   "scripts": {
